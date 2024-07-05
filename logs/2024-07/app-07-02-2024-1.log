@@ -1,0 +1,7 @@
+2024-07-02 17:25:36,228 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
+2024-07-02 17:30:36,855 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
+2024-07-02 17:34:05,815 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
+2024-07-02 17:35:30,993 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
+2024-07-02 18:20:54,008 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
+2024-07-02 18:25:58,327 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
+2024-07-02 18:28:37,489 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
