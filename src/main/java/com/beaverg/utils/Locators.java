@@ -21,6 +21,15 @@ public class Locators {
 
     public static By getLocator(String elem) {
         String locator = locators.getProperty(elem);
+        return getResult(locator);
+    }
+
+    public static By getDynamicLocator(String elem, int index) {
+        String locator = String.format(locators.getProperty(elem), index);
+        return getResult(locator);
+    }
+
+    private static By getResult(String locator) {
         String[] result = locator.split("=", 2);
         LocatorType locatorType = LocatorType.valueOf(result[0]);
         String selector = result[1];

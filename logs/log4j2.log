@@ -1,15 +1,115 @@
-2024-07-05 12:04:23,450 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
-2024-07-05 12:12:34,919 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
-2024-07-05 12:15:05,037 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
-2024-07-05 12:23:20,402 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
-2024-07-05 13:04:25,658 ERROR c.b.l.TestNGListener [main] Test 'verifyUnsuccessfulLoginTest' was failed!
-2024-07-05 13:09:46,151 ERROR c.b.l.TestNGListener [main] Test 'verifyUnsuccessfulLoginTest' was failed!
-2024-07-05 13:10:14,376 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
-2024-07-05 13:14:53,268 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
-2024-07-05 13:16:00,015 ERROR c.b.l.TestNGListener [main] Test 'verifyUnsuccessfulLoginTest' was failed!
-2024-07-05 13:16:32,910 ERROR c.b.l.TestNGListener [main] Test 'verifySuccessfulLoginTest' was failed!
-2024-07-05 13:17:26,477 ERROR c.b.l.TestNGListener [main] Test 'verifyUnsuccessfulLoginTest' was failed!
-2024-07-05 13:19:14,096 ERROR c.b.l.TestNGListener [main] Test 'verifyUnsuccessfulLoginTest' was failed!
-2024-07-05 13:21:49,708 ERROR c.b.l.TestNGListener [main] Test 'verifyUnsuccessfulLoginTest' was failed!
-2024-07-05 13:24:22,809 ERROR c.b.l.TestNGListener [main] Test 'verifyUnsuccessfulLoginTest' was failed!
-2024-07-05 13:24:48,766 ERROR c.b.l.TestNGListener [main] Test 'verifyUnsuccessfulLoginTest' was failed!
+2024-07-07 10:58:04,796 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:58:12,374 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:58:20,907 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:58:29,010 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:58:36,903 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:58:44,476 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:58:53,040 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:59:01,046 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:59:09,184 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:59:17,171 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:59:26,265 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:59:34,108 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:59:43,060 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:59:48,576 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:59:54,418 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 10:59:59,628 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:06,499 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:12,314 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:18,458 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:24,053 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:30,024 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:35,475 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:43,718 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:49,035 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:54,463 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:00:59,194 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:05,647 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:11,176 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:16,233 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:21,886 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:27,732 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:32,563 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:38,847 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:44,842 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:51,102 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:01:56,771 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:03,103 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:08,176 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:12,863 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:18,524 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:23,888 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:29,636 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:34,517 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:42,909 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:49,321 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:02:55,388 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:03:01,535 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:03:09,653 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:03:17,918 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:03:26,207 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:03:31,840 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:03:39,948 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:03:47,770 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:09:06,226 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:09:13,881 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:09:20,943 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:11:24,817 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:19:34,686 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:19:42,359 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:19:50,652 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:19:58,182 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:20:06,107 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:20:13,661 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:20:21,189 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:20:29,059 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:20:36,843 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:20:44,477 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:20:52,222 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:20:59,130 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:21:04,297 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:21:10,774 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:21:43,601 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:21:50,265 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:21:57,532 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:22:42,935 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:23:48,171 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:24:01,204 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:24:07,607 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:24:19,404 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:24:28,605 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:24:35,683 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:24:43,634 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:24:55,996 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:25:03,702 ERROR c.b.l.TestNGListener [main] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:36:36,796 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:36:44,484 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:36:51,513 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:36:58,698 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:37:05,756 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:37:12,790 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:37:20,134 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:37:27,905 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:37:34,886 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:37:41,948 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:37:49,097 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:37:57,049 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:38:03,262 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:38:10,002 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:38:47,457 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:38:52,521 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:39:00,705 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:39:39,413 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:40:35,890 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:40:55,831 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:41:20,408 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:41:31,139 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:41:41,197 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:41:54,743 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:42:04,711 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:42:38,335 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:42:55,525 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:43:08,959 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:43:17,001 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:43:36,507 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
+2024-07-07 11:43:43,089 ERROR c.b.l.TestNGListener [TestNG-test=Product testing-1] Test 'verifyMainMenuItemTest' was failed!
