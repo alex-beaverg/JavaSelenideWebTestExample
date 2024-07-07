@@ -6,12 +6,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-public class Locators {
+public class LocatorGetter {
     private static final Properties locators;
 
     static {
         locators = new Properties();
-        InputStream is = Locators.class.getResourceAsStream("/locators.properties");
+        InputStream is = LocatorGetter.class.getResourceAsStream("/locators.properties");
         try {
             locators.load(is);
         } catch (IOException e) {

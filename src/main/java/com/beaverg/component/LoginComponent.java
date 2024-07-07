@@ -3,7 +3,7 @@ package com.beaverg.component;
 import com.codeborne.selenide.SelenideElement;
 import io.qameta.allure.Step;
 
-import static com.beaverg.utils.Locators.getLocator;
+import static com.beaverg.utils.LocatorGetter.getLocator;
 import static com.codeborne.selenide.Selenide.page;
 
 public class LoginComponent {

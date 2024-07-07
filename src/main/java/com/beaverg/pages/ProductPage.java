@@ -4,7 +4,7 @@ import com.beaverg.base.BasePage;
 import com.beaverg.domain.Product;
 import com.codeborne.selenide.SelenideElement;
 
-import static com.beaverg.utils.Locators.getLocator;
+import static com.beaverg.utils.LocatorGetter.getLocator;
 import static com.codeborne.selenide.Selenide.$;
 
 public class ProductPage extends BasePage {

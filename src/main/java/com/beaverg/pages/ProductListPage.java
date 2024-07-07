@@ -3,7 +3,7 @@ package com.beaverg.pages;
 import com.beaverg.base.BasePage;
 import com.beaverg.component.ProductListComponent;
 
-import static com.beaverg.utils.Locators.getLocator;
+import static com.beaverg.utils.LocatorGetter.getLocator;
 import static com.codeborne.selenide.Selenide.$;
 
 public class ProductListPage extends BasePage {

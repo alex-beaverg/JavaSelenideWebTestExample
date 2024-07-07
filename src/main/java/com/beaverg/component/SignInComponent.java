@@ -4,7 +4,7 @@ import com.beaverg.domain.Account;
 import com.beaverg.pages.AccountPage;
 import io.qameta.allure.Step;
 
-import static com.beaverg.utils.Locators.getLocator;
+import static com.beaverg.utils.LocatorGetter.getLocator;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.page;
 

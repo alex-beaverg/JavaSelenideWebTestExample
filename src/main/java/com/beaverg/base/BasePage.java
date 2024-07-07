@@ -5,7 +5,7 @@ import com.beaverg.component.MainMenuComponent;
 import io.qameta.allure.Step;
 
 import static com.beaverg.utils.PropertyGetter.*;
-import static com.beaverg.utils.Locators.getLocator;
+import static com.beaverg.utils.LocatorGetter.getLocator;
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.Selenide.$;
 

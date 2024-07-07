@@ -7,7 +7,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.util.List;
 
-import static com.beaverg.utils.Locators.getLocator;
+import static com.beaverg.utils.LocatorGetter.getLocator;
 import static com.codeborne.selenide.Selenide.$$;
 
 public class MainMenuComponent {

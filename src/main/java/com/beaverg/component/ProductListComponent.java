@@ -5,9 +5,8 @@ import com.beaverg.pages.ProductPage;
 import com.beaverg.utils.Waits;
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
-import com.codeborne.selenide.WebDriverRunner;
 
-import static com.beaverg.utils.Locators.getLocator;
+import static com.beaverg.utils.LocatorGetter.getLocator;
 import static com.codeborne.selenide.Selenide.*;
 
 public class ProductListComponent {
